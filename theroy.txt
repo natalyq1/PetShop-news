@@ -3,3 +3,10 @@ npm i ---> para instalar dependencias
 *************
 npm start
 *************
+json-server -v ---> para saber q version tengo o si esta instalado
+
+*************
+json-server --watch .\db.json --port=5000
+    ---> esto para q me muestre y corra las bases de datos
+*************
+axios
