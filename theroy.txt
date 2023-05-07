@@ -1,2 +1,5 @@
 npm i ---> para instalar dependencias
+    ya incluye react oruter dom
+*************
 npm start
+*************
